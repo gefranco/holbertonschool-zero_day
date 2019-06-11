@@ -1,5 +1,5 @@
 **HOLA**
 
 ```
-Learning git
+Learning git ...
 ```
